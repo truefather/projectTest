@@ -3,9 +3,9 @@
 function connection(){
     $host = "localhost";
     $user = "root";
-    $pass = "";
+    $pass = "1234567890";
 
-    $bd = "usuarios";
+    $bd = "usuarios-taller-de-base-de-datos";
 
     $connect=mysqli_connect($host, $user, $pass);
 
