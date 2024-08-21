@@ -3,7 +3,7 @@
 function connection(){
     $host = "localhost";
     $user = "root";
-    $pass = "1234567890";
+    $pass = "none";
 
     $bd = "usuarios-taller-de-base-de-datos";
 
